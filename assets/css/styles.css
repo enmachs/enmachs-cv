@@ -71,7 +71,6 @@ Primary use:  Vcard / Personal / CV / Resume / Portfolio
 body {
   font-family: 'Montserrat', sans-serif;
   -webkit-font-smoothing: subpixel-antialiased;
-  background: url('../img/chris-ried.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
