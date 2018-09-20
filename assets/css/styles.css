@@ -438,7 +438,7 @@ iframe {
 }
 @media (min-width: 1400px) {
   .section-vcardbody {
-    margin-top: 180px;
+    margin-top: 80px;
   }
 }
 .section-vcardbody-pgactive {
@@ -499,7 +499,7 @@ iframe {
 }
 @media (min-width: 1400px) {
   .section-page-active {
-    margin-top: 180px;
+    margin-top: 80px;
   }
 }
 .ps-scrollbar-y-rail {
@@ -528,7 +528,7 @@ iframe {
 }
 @media (min-width: 1400px) {
   .main-menu {
-    margin-top: 186px;
+    margin-top: 80px;
   }
 }
 .main-menu-pgactive {
